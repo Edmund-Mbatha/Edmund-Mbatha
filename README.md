@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edmund-Mbatha
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data science with python
-- 📫 How to reach me 
+- 📫 How to reach me, mail @edmundmbatha0@gmail.com
 
 <!---
 Edmund-Mbatha/Edmund-Mbatha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
